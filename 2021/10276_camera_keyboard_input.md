@@ -1,4 +1,4 @@
-## Camera for keyboard input
+# Use the camera for keyboard input
 
 🎥 Video: https://developer.apple.com/wwdc21/10276
 
