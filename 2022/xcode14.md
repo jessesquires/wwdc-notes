@@ -10,7 +10,9 @@
 
 > Simplify an app icon with a single 1024x1024 image that is automatically resized for its target. Choose the Single Size option in the app icon’s Attributes inspector in the asset catalog. You can still override individual sizes with the All Sizes option.
 
-### Protocols & Generics
+### Swift 5.7
+
+#### Protocols & Generics
 
 > You can now use protocols with associated types and Self requirements as the types of values with the any keyword.
 
@@ -20,6 +22,6 @@
 
 > You can now use opaque types in the parameters of functions and subscripts when they provide a shorthand syntax for the introduction of a generic parameter.
 
-### Optionals
+#### Optionals
 
 > You can now unwrap optional variables with a shorthand syntax that shadows the existing declaration.
