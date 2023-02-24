@@ -1,6 +1,6 @@
 # WWDC notes
 
-*Taking notes on WWDC videos and new APIs*
+*Taking notes on WWDC videos, new APIs, and announcements*
 
 - [2020](/2020/)
 - [2021](/2021/)
