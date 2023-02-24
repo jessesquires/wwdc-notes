@@ -7,6 +7,9 @@
 
 ## Contents
 
+- [Core Data](./coredata.md)
 - [Miscellaneous Notes](./misc-notes.md)
 - [SwiftUI](./swiftui.md)
 - [Xcode 14](./xcode14.md)
+- [Mac App Notarization](./notarization.md)
+- [Foundation](./foundation.md)

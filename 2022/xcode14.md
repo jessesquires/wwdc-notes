@@ -6,6 +6,10 @@
 
 > Xcode 14 enables a single target to support multiple platforms and conditionally include dependencies, code, resources, and build settings for specific platforms.
 
+### Previews
+
+- [What's New in Xcode 14 Previews](https://useyourloaf.com/blog/whats-new-in-xcode-14-previews/)
+
 ### Asset Catalogs
 
 > Simplify an app icon with a single 1024x1024 image that is automatically resized for its target. Choose the Single Size option in the app icon’s Attributes inspector in the asset catalog. You can still override individual sizes with the All Sizes option.
