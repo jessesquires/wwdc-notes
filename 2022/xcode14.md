@@ -2,7 +2,10 @@
 
 📝 [Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes)
 
+### What's new
+
 - [What’s new in Xcode 14?](https://www.hackingwithswift.com/articles/251/whats-new-in-xcode-14)
+- [Enabling Concurrency warnings in Xcode 14](https://www.donnywals.com/enabling-concurrency-warnings-in-xcode-14/)
 
 ### General
 
