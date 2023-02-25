@@ -2,6 +2,8 @@
 
 📝 [Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes)
 
+- [What’s new in Xcode 14?](https://www.hackingwithswift.com/articles/251/whats-new-in-xcode-14)
+
 ### General
 
 > Xcode 14 enables a single target to support multiple platforms and conditionally include dependencies, code, resources, and build settings for specific platforms.
