@@ -8,12 +8,12 @@
 ## Contents
 
 - [Core Data](./coredata.md)
-- [Miscellaneous Notes](./misc-notes.md)
-- [SwiftUI](./swiftui.md)
-- [Xcode 14](./xcode14.md)
-- [Mac App Notarization](./notarization.md)
 - [Foundation](./foundation.md)
+- [Mac App Notarization](./notarization.md)
 - [macOS](./macos.md)
+- [Miscellaneous Notes](./misc-notes.md)
 - [RegexBuilder](./regexbuilder.md)
 - [Swift 5.7](./swift-lang.md)
+- [SwiftUI](./swiftui.md)
 - [UIKit](./uikit.md)
+- [Xcode 14](./xcode14.md)
