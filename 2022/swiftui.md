@@ -29,3 +29,8 @@
 #### ➡️ [SwiftUI Renderers and Their Tricks](https://swiftui-lab.com/swiftui-renders/)
 
 > WWDC ’22 brought us a couple of new ways to capture SwiftUI views. There is `ImageRenderer` and `ChartRenderer`. In general we use the first one to generate images of our views, and `ChartRenderer` specifically for `Chart` views. In this article we will explore both renderers, its tricks, quirks and limitations.
+
+#### ➡️ [Understanding SwiftUI's ViewThatFits container](https://tanaschita.com/20220627-understanding-swiftuis-viewthatfits-container/)
+
+> Starting with iOS 16, SwiftUI provides a new layout container `ViewThatFits` which helps us build adaptive layouts.
+
