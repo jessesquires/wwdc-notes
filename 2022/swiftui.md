@@ -34,3 +34,6 @@
 
 > Starting with iOS 16, SwiftUI provides a new layout container `ViewThatFits` which helps us build adaptive layouts.
 
+#### ➡️ [Multiline TextField in SwiftUI](https://otbivnoe.ru/2022/07/10/Finally-Multiline-TextField-in-SwiftUI.html)
+
+> Here it is! How many times did I try to find an answer on Stackoverflow, uhm? No more custom multiline text fields using TextEditor. Starting with iOS 16 we can achieve it using TextField just by adding a new parameter axis.

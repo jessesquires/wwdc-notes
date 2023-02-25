@@ -13,3 +13,7 @@
 - [Xcode 14](./xcode14.md)
 - [Mac App Notarization](./notarization.md)
 - [Foundation](./foundation.md)
+- [macOS](./macos.md)
+- [RegexBuilder](./regexbuilder.md)
+- [Swift 5.7](./swift-lang.md)
+- [UIKit](./uikit.md)
