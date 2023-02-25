@@ -12,6 +12,10 @@
 
 #### ➡️ [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
 
+#### ➡️ [SwiftUI for Mac 2022](https://troz.net/post/2022/swiftui-mac-2022/)
+
+#### ➡️ [SwiftUI 4 is killing my open-source projects](https://danielsaidi.com/blog/2022/06/10/swiftui-4-is-killing-my-open-source-projects)
+
 ## APIs
 
 #### ➡️ [FormatStyles in iOS 16 and macOS 13](https://mjtsai.com/blog/2022/06/10/formatstyles-in-ios-16-and-macos-13/)
@@ -21,3 +25,7 @@
 - [Build and style a chart with the new Swift Charts framework](https://nilcoalescing.com/blog/BuildAndStyleAChartWithSwiftChartsFramework/)
 - [Use SwiftUI views as points in scatter plot](https://nilcoalescing.com/blog/ScatterPlotWithCustomViews/)
 - [Ridgeline plot with Swift Charts](https://nilcoalescing.com/blog/RidgePlotWithSwiftCharts/)
+
+#### ➡️ [SwiftUI Renderers and Their Tricks](https://swiftui-lab.com/swiftui-renders/)
+
+> WWDC ’22 brought us a couple of new ways to capture SwiftUI views. There is `ImageRenderer` and `ChartRenderer`. In general we use the first one to generate images of our views, and `ChartRenderer` specifically for `Chart` views. In this article we will explore both renderers, its tricks, quirks and limitations.
