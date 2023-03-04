@@ -41,3 +41,9 @@
 #### ➡️ [SwiftUI View That Fits](https://useyourloaf.com/blog/swiftui-view-that-fits/)
 
 > The SwiftUI ViewThatFits view, introduced in iOS 16, makes it a lot simpler to build layouts that adapt to make best use of the available space.
+
+#### ➡️ [SwiftUI Scrollable View Backgrounds](https://useyourloaf.com/blog/swiftui-scrollable-view-backgrounds/)
+
+> A quick tip on changing the background of SwiftUI scrollable views like lists and forms.
+> [...]
+> The implementation of list no longer uses `UITableView`. Use the `.scrollContentBackground` modifier instead.
