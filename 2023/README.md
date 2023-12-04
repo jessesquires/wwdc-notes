@@ -16,6 +16,7 @@
 
 ## Notes
 
+- [Concurrency](./concurrency.md)
 - [Platforms State of the Union](./sotu.md)
 - [Xcode 15](./xcode15.md)
 
