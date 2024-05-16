@@ -1,6 +1,6 @@
 # Platforms "State of the Union"
 
-https://developer.apple.com/videos/play/wwdc2023/102/
+- 🎥 [State of the Union](https://developer.apple.com/videos/play/wwdc2023/102/)
 
 # Notes
 
