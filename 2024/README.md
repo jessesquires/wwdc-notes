@@ -1,3 +1,7 @@
 # WWDC 2024
 
-TBA
+## Notes
+
+### Sessions
+
+- [Platforms State of the Union](./sotu.md)
