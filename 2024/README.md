@@ -11,6 +11,7 @@ iOS 18, watchOS 11, macOS 15 Sequoia, visionOS 2
 ### Blogs
 
 - [WWDC 2024 Links - Michael Tsai](https://mjtsai.com/blog/2024/06/14/wwdc-2024-links/)
+- [WWDC 2024 Viewing Guide - Use Your Loaf](https://useyourloaf.com/blog/wwdc-2024-viewing-guide/)
 
 ## Notes
 
