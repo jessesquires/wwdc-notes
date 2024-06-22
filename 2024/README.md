@@ -17,6 +17,7 @@ iOS 18, watchOS 11, macOS 15 Sequoia, visionOS 2
 
 - [Platforms State of the Union](./sotu.md)
 - [Swift](./swift.md)
+- [Swift Testing](./swift_testing.md)
 - [SwiftUI](./swiftui.md)
 - [UIKit](./uikit.md)
 - [App Store Connect](./app_store_connect.md)
