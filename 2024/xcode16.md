@@ -42,3 +42,8 @@ Highlights
 
 - XCTest has new API for performing a “double tap” hand gesture on Apple Watch from UI tests.
 
+## Blogs
+
+#### [Xcode Explicitly Built Modules](https://useyourloaf.com/blog/xcode-explicitly-built-modules/), Use Your Loaf
+
+> Xcode 16 introduces an experimental setting to explicitly build Swift modules. Here’s my notes from trying it out.
