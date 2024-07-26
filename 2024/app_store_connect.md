@@ -15,7 +15,7 @@
 - Deep links to custom product pages
 - "Promote Your App"
     - generate marketing assets
-    - easily share to socail media
+    - easily share to social media
 - Get notified when you're featured (finally!)
 
 **Additional Updates**
