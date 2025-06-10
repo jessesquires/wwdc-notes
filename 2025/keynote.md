@@ -1,4 +1,4 @@
-# WWDC 2025
+# WWDC 2025 Keynote
 
 - All OSes named by year: iOS 26, macOS 26, etc.
 - Liquid Glass: new UI design for all platforms

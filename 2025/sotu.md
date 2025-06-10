@@ -6,10 +6,7 @@
 
 ## Liquid Glass
 
-- Option to keep current design, aka opt-out. Removed in next release.
-
-### APIS
-
+- **Option to keep current design, aka opt-out. Removed in next release.**
 - `tabBarBottomAccessory()`
 - `tint()` for adding button color
 - `glassEffect()`
