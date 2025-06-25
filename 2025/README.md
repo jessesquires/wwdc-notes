@@ -19,6 +19,7 @@ macOS 26 Tahoe, iOS 26, watchOS 26, tvOS 26, visionOS 26
 
 ## Notes
 
+- [Icon Composer](./icon_composer.md)
 - [Liquid Glass](./liquid_glass.md)
 - [SwiftUI](./swiftui.md)
 - [UIKit](./uikit.md)
